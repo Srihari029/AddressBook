@@ -1,6 +1,6 @@
 Addresss Book
 Adressbook is console based application used to store contact names, phone number, E-mail IDs.
-This application used Command line argument and Standard I/O.
+This application uses Command line argument and Standard I/O.
 Operations which can be performed on this Application:
     1. Create contacts
     2. Save contacts
